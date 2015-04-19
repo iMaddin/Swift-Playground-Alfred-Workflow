@@ -3,7 +3,7 @@
 Create or open a Swift Playground through Alfred. 
 
 Launch Alfred and enter one of the following:
-- *play osx fileName *
+- *play osx fileName*
 -- creates an OS X Playground
 - *play ios fileName*
 -- creates an iOS Playground
